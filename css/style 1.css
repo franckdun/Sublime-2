@@ -1,0 +1,17 @@
+h1{
+	font-size: 30xp;
+	text-align: center;
+	color: #403A30;
+}
+body{
+	font-size: 16xp;
+	font-family: helvetica, sans-cerif;
+	color: #7D725E;
+	background-image: url(../images/vintage-concrete.png);
+}
+ul li{
+	display: inline-block;
+}
+li{
+  list-style-type: none;
+}
